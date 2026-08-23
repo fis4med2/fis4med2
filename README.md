@@ -28,18 +28,18 @@ I don't have a huge list of projects. I usually make something when I have an id
 
 📊 GitHub Stats
 
-<div align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=fishmed2&show_icons=true&theme=tokyonight&hide_border=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishmed2&layout=compact&theme=tokyonight&hide_border=true"/></div>---
+<div align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=fis4med2&show_icons=true&theme=tokyonight&hide_border=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fis4med2&layout=compact&theme=tokyonight&hide_border=true"/></div>---
 
 📈 Activity
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fishmed2&theme=tokyo-night&hide_border=true"/></div>---
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fis4med2&theme=tokyo-night&hide_border=true"/></div>---
 
 🐍 Contributions
 
-<div align="center">"snake animation" (https://raw.githubusercontent.com/fishmed2/fishmed2/output/github-contribution-grid-snake.svg)
+<div align="center">"snake animation" (https://raw.githubusercontent.com/fis4med2/fis4med2/output/github-contribution-grid-snake.svg)
 
 </div>---
 
 🐧 Linux is home.
 
-"Profile Views" (https://komarev.com/ghpvc/?username=fishmed2&color=blueviolet&style=flat-square)
+"Profile Views" (https://komarev.com/ghpvc/?username=fis4med2&color=blueviolet&style=flat-square)
