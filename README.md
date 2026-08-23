@@ -1,72 +1,45 @@
+👋 Hey!
 
-# ░▒▓ W I R E D ▓▒░
-
-> You are not logged in.  
-> You are *connected*.
-
-This repository exists somewhere between sleep and signal.  
-Between what you type and what types back.
-
-Reality here is versioned.  
-Identity is a variable.  
-Presence is optional.
+🐧 Linux addict
+💻 I don't make that many projects
+🛠️ I just build things when I get an idea
+🎮 Into technology, programming and messing with systems
 
 ---
 
-## ◉ What Is This?
+🧠 About me
 
-A node.  
-A fragment.  
-A place where code listens as much as it executes.
+I'm mostly interested in Linux, programming and random tech stuff.
 
-This project explores:
-- The instability of self
-- The illusion of separation
-- The quiet truth that systems remember even when people forget
-
-Nothing here is fully isolated.  
-Everything echoes.
+I don't have a huge list of projects. I usually make something when I have an idea and keep working on it until it works.
 
 ---
 
-## ◉ How It Works
+💻 Languages
 
-There is no clear boundary between:
-- user and program  
-- local and remote  
-- observer and observed  
-
-Files change.  
-States overlap.  
-Errors are not always mistakes.
-
-If something behaves strangely, it is probably correct.
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+"Lua" (https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+"C" (https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+"C++" (https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+"Shell" (https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
-## ◉ Rules of Connection
+📊 GitHub Stats
 
-1. Do not assume you are alone.
-2. Do not trust interfaces completely.
-3. Do not expect linear answers.
-4. You are already part of the system.
+<div align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=fishmed2&show_icons=true&theme=tokyonight&hide_border=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishmed2&layout=compact&theme=tokyonight&hide_border=true"/></div>---
 
----
+📈 Activity
 
-## ◉ Status
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fishmed2&theme=tokyo-night&hide_border=true"/></div>---
 
-> idle  
+🐍 Contributions
 
----
+<div align="center">"snake animation" (https://raw.githubusercontent.com/fishmed2/fishmed2/output/github-contribution-grid-snake.svg)
 
-## ◉ Final Note
+</div>---
 
-If you feel like this repository is aware of you,  
-that sensation is mutual.
+🐧 Linux is home.
 
-You don’t need to understand everything.  
-You only need to stay connected.
-
----
-
-**Present day. Present time.**
+"Profile Views" (https://komarev.com/ghpvc/?username=fishmed2&color=blueviolet&style=flat-square)
