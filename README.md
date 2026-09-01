@@ -26,31 +26,6 @@ I don't have a huge list of projects. I usually make something when I have an id
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fis4med2&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="fis4med2's GitHub stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fis4med2&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top languages"/>
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fis4med2&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=cba6f7&area=true&area_color=cba6f7&hide_border=true" alt="Activity graph"/>
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fis4med2/fis4med2/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
-
----
-
 🐧 Linux is home.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fis4med2&color=cba6f7&style=flat-square)
