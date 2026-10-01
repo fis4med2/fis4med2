@@ -1,31 +1,17 @@
-# 👋 Hey!
+# 💫 About Me:
+🔭 working interesting project<br>🌱 learning more than code possible do<br>💬 ask me for prompts without slops, and free humanize<br>⚡ use ai for fun things instead of a stupid repective slops
 
-- 🐧 Linux addict
-- 💻 I don't make that many projects
-- 🛠️ I just build things when I get an idea
-- 🎮 Into technology, programming and messing with systems
 
----
+# 💻 Tech Stack:
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=fis4med2&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=fis4med2&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=fis4med2&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🧠 About me
-
-I'm mostly interested in Linux, programming and random tech stuff.
-
-I don't have a huge list of projects. I usually make something when I have an idea and keep working on it until it works.
-
----
-
-## 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
+[![](https://komarev.com/ghpvc/?username=fis4med2&icon=2&color=7)](https://visitcount.itsvg.in)
 
-🐧 Linux is home.
-
-![Profile Views](https://komarev.com/ghpvc/?username=fis4med2&color=cba6f7&style=flat-square)
